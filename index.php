@@ -34,7 +34,7 @@
 							<article id="me" class="panel">
 								<header>
 									<h1>Annie Hwang</h1>
-									<p>Passion for People & Product</p>
+									<p>Test- Passion for People & Product</p>
 								</header>
 								<a href="#work" class="jumplink pic">
 									<span class="arrow icon fa-chevron-right"><span>See my work</span></span>
