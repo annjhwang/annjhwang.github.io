@@ -34,7 +34,7 @@
 							<article id="me" class="panel">
 								<header>
 									<h1>Annie Hwang</h1>
-									<p>Test- Passion for People & Product</p>
+									<p>Passion for People & Product</p>
 								</header>
 								<a href="#work" class="jumplink pic">
 									<span class="arrow icon fa-chevron-right"><span>See my work</span></span>
@@ -45,10 +45,10 @@
 						<!-- Work -->
 							<article id="work" class="panel">
 								<header>
-									<h2>Werk</h2>
+									<h2>Work</h2>
 								</header>
 								<p>
-									<a href="CS171-Project/curry_index.php">My Work On Curry</a>
+			
 									Hi! I am a junior at Harvard University studying Computer Science. I love finding ways to improve products by looking at various KPI metrics that identify the growth and current success of a product and its features. I seek to apply the technical skills I gain at Harvard to pursue my future endeavors within the tech industry. 
 
 									I'm also passionate about film. These are some links to different video projects that I've worked on.
@@ -56,7 +56,8 @@
 								<section>
 									<div class="row">
 										<div class="4u 12u$(mobile)">
-											<a href="#" class="image fit"><img src="images/pic01.jpg" alt=""></a>
+											<a href="#" class="image fit"><img src="images/stephencurry.png" alt=""></a>
+											<a href="CS171-Project/curry_index.php">My Work On Curry</a>
 										</div>
 										<div class="4u 12u$(mobile)">
 											<a href="#" class="image fit"><img src="images/pic02.jpg" alt=""></a>
