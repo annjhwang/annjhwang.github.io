@@ -48,7 +48,7 @@
 									<h2>Werk</h2>
 								</header>
 								<p>
-									<a href="CS171-Project 2/curry_index.php">My Work On Curry</a>
+									<a href="CS171-Project/curry_index.php">My Work On Curry</a>
 									Hi! I am a junior at Harvard University studying Computer Science. I love finding ways to improve products by looking at various KPI metrics that identify the growth and current success of a product and its features. I seek to apply the technical skills I gain at Harvard to pursue my future endeavors within the tech industry. 
 
 									I'm also passionate about film. These are some links to different video projects that I've worked on.
@@ -129,7 +129,7 @@
 									<h2>This is what I do for fun:</h2>
 								</header>
 								<p>
-									<a href="CS171-Project 2/curry_index.php">My Work On Curry</a>
+									<a href="CS171-Project/curry_index.php">My Work On Curry</a>
 									Hi! I am a junior at Harvard University studying Computer Science. I love finding ways to improve products by looking at various KPI metrics that identify the growth and current success of a product and its features. I seek to apply the technical skills I gain at Harvard to pursue my future endeavors within the tech industry. 
 
 									I'm also passionate about film. These are some links to different video projects that I've worked on.
