@@ -24,7 +24,7 @@
 						<a href="#me" class="icon fa-home active"><span>Home</span></a>
 						<a href="#work" class="icon fa-folder"><span>Work</span></a>
 						<a href="#contact" class="icon fa-envelope"><span>Contact</span></a>
-						<a href="#" class="icon fa-twitter"><span>Twitter</span></a>
+						<a href="#fun" class="icon fa-twitter"><span>Fun</span></a>
 					</nav>
 
 				<!-- Main -->
@@ -120,6 +120,13 @@
 										</div>
 									</div>
 								</form>
+							</article>
+
+							<article id="fun" class="panel">
+								<header>
+									<h2>This is what I do for fun:</h2>
+								</header>
+								<a href="CS171-Project 2/curry_index.php">My Work On Curry</a>
 							</article>
 
 					</div>
