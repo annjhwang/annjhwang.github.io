@@ -1,0 +1,19 @@
+{
+  "name": "Annie Hwang",
+  "children": [
+    {
+      "name": "Mom: Koeun Lim",
+      "children": [
+        {"name": "Grandma: Hye-ja Kim"},
+        {"name": "Grandpa: Lim"}
+        ]
+    },
+    {
+      "name": "Dad: Junseok Hwang",
+      "children": [
+        {"name": "Grandma: Sung-ja Son"},
+        {"name": "Grandpa: Jong-gu Hwang"}
+      ]
+    }
+  ]
+}
