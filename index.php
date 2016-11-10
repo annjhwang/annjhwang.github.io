@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Astral by HTML5 UP</title>
+		<title>Annie Hwang</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -48,6 +48,7 @@
 									<h2>Work</h2>
 								</header>
 								<p>
+									<a href="SLS12.php" target="_self">Link</a>
 			
 									Hi! I am a junior at Harvard University studying Computer Science. I love finding ways to improve products by looking at various KPI metrics that identify the growth and current success of a product and its features. I seek to apply the technical skills I gain at Harvard to pursue my future endeavors within the tech industry. 
 
@@ -138,6 +139,7 @@
 								
 							</article>
 					</div>
+					
 
 				<!-- Footer -->
 					<div id="footer">
@@ -145,6 +147,7 @@
 							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</div>
+
 
 			</div>
 
@@ -155,6 +158,7 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/graphdracula/1.0.3/dracula.min.js"></script>
 
 	</body>
 </html>
