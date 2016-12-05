@@ -1,0 +1,55 @@
+<html>
+  <head>
+		<title>Annie Hwang</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/assets/css/animate.min.css" type="text/css">
+
+		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+
+	</head>
+  	<!-- Wrapper-->
+  	<div id="container">
+  		<center><h2>Hair Color & Staightness</h2>
+  		<img src="/images/hair.png" width="220" height="180" margin=60/>
+  		<img src="/images/curlyhair.png" width="210" height="180" margin=60/>
+ 		</center>
+	<p>
+		Heritability of trait: <br>
+		Dominance/recessiveness of trait: <br>
+		Parent's Influence: both have dark brown hair<br>
+		Nurture's influence on trait: did a lot of perm and hair coloring - damaged <br>
+		Analysis of trait:
+	</p>
+</div>
+	  	<!-- Scripts -->
+	<script src="/assets/js/jquery.min.js"></script>
+	<script src="/assets/js/skel.min.js"></script>
+	<script src="/assets/js/skel-viewport.min.js"></script>
+	<script src="/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="/assets/js/main.js"></script>
+	<!-- Bootstrap Core JavaScript -->
+    <script src="/assets/js/bootstrap.min.js"></script>
+
+    <script type="/text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+    <!-- Plugin JavaScript -->
+
+    <script src="/assets/js/d3.min.js"></script>
+    <script src="/assets/js/hexbin.js"></script>
+    <script src="/assets/js/d3.chart.js"></script>
+
+
+    <script src="/assets/js/jquery.easing.min.js"></script>
+    <script src="/assets/js/jquery.fittext.js"></script>
+    <script src="/assets/js/wow.min.js"></script>
+
+	<script src="/assets/js/ancestorTree.js"></script>
+
+	
+  </body>
+</html>
