@@ -17,19 +17,19 @@
 	      google.charts.setOnLoadCallback(drawChart);
 	      function drawChart() {
 	        var data = google.visualization.arrayToDataTable([
-	          ['Heritability', 'Weight'],
-	          [ 0.5,      12],
-	          [ 0.4,      5.5],
-	          [ 0.8,     14],
-	          [ 0.9,      5],
-	          [ 0.6,      3.5],
-	          [ 0.3,    7]
+	          ['Heritability', 'Frequency'],
+	          [ 0.5,      60],
+	          [ 0.4,      32],
+	          [ 0.8,     50],
+	          [ 0.9,      20],
+	          [ 0.6,      15],
+	          [ 0.3,    82]
 	        ]);
 
 	        var options = {
 	          title: 'Heritability of traits',
 	          hAxis: {title: 'Heritability', minValue: 0, maxValue: 1.0},
-	          vAxis: {title: 'Weight', minValue: 0, maxValue: 15},
+	          vAxis: {title: 'Frequency', minValue: 0, maxValue: 100},
 	          legend: 'none'
 	        };
 
@@ -65,9 +65,7 @@
 					<img src="images/facebook1.jpg" alt="" />
 				</a>
 			</article>
-			<!-- Me -->
 			<article id="tree" class="panel">
-				<!-- college tree graph -->
                     <h2 id="yellow-highlight" class="text-center" style="margin-bottom: 10px;">Family Lineage</h2>
                     <i class="text-faded">Click on one of the below nodes to expand the tree. Clicking on an already expanded node will contract the tree.</i>
                     <div id="college-tree" class="wow fadeIn" data-wow-delay="0.5s"></div>
@@ -170,7 +168,7 @@
 						we actually see that <i>Nurture affecting Nature</i>. One thing we can take away from this 
 						project is that the relationship between Nature and Nurture is surely a complicated one; they 
 						are inherently interdependent. Hence, it is impossible to completely distinguish the line 
-						between Nature’s and Nurture’s effect on human traits.
+						between Nature’s and Nurture’s effect on human traits.</p>
 
 					<b>How does the effect Nurture has on behavioral and physical traits differ?</b>
 
