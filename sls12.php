@@ -57,7 +57,7 @@
 			<a href="#me" class="icon fa-home active"><span>Home</span></a>
 			<a href="#work" class="icon fa-folder"><span>Project</span></a>
 			<a href="#tree" class="icon fa-folder"><span>Family Tree</span></a>
-			<a href="#heritability" class="icon fa-folder"><span>Heritability Chart</span></a>
+			<a href="#heritability" class="icon fa-folder"><span>Heritability</span></a>
 			<a href="#analysis" class="icon fa-folder"><span>Final Analysis</span></a>
 			<a href="#citation" class="icon fa-folder"><span>Work Cited</span></a>
 		</nav>
@@ -91,15 +91,33 @@
 					<h2>Introduction</h2>
 				</header>
 				<p>	
-				Hi! I'm Annie. This is an interactive website that helps you learn both about me, and concepts that I have learned in my "Understanding Darwinism" class at Harvard. This website covers concepts of Nature vs. Nurture, heritability, and a little bit of behavioral genetics. My web page showcases 6 physical and 6 behavioral qualities of me (with visuals). Some examples for physical qualities include: brown eyes, dimples, height, tongue rolling, etc. Some examples for behavioral qualities include: extroversion, openness, likelihood of depression, etc. 
+				Hi! I'm Annie. This is an interactive website that helps you learn both about me, and concepts that I have learned in 
+				my "Understanding Darwinism" class at Harvard. This website covers concepts of Nature vs. Nurture, heritability, and 
+				behavioral genetics. This webpage addresses the focuses on 6 physical and 5 behavioral qualities. 
+				Some examples for physical qualities include: dimples, height, BMI, etc. Some examples for 
+				behavioral qualities include: extroversion, openness, neuroticism, etc. 
 				</p>
 				<p>
-				While examining each trait, I first address the heritability to start the discussion of whether nature or nurture has played a more significant role in the development of the trait. Whether nature or nurture played a more signifant role in the development of that trait, I will discuss the roots and causes  (experience for Nurture and traits in parents for Nature). If the trait has been influenced by nurture, I discuss past experiences and lifestyle that has made me to who I am today with those certain qualities.
+				For each trait, I first address its heritability index to see whether nature or 
+				nurture has played a more significant role in the development and variation of each trait. Then, I adress
+				personal "Nature" and "Nurture" influences my development of that certain trait. For Nature influences, I primarily
+				address if that quality was present in my parents. For Nurture's influence, I discuss habits,
+				past experiences, and lifestyle that has shaped those certain qualities. Lastly, for each trait, I analyze
+				how the particular trait manifests itself in me. If the quality is not binary (i.e. how extroverted I am), I use
+				a scale of 0-1.0 to address how strong that particular trait is. In this analysis part, I also 
+				discuss some interesting things I learned while researching the heritability of the trait.
 				</p>
-				<p> The question my project aims to answer is this: What is the relationship between Nature and Nurture on physical and behavioral traits?
+				<p> While research more about these behavioral qualities, the question my project aims to answer is this: 
+					What is the relationship between Nature and Nurture on physical and behavioral traits? 
 				</p>
 				<h4>Physical Traits</h4>
 
+				<p>I look into 6 different physical traits: BMI, Height, Myopia (Nearsightedness), Eczema,
+					Dimples, Asthma. Out of these 6 traits, studies showed that Height has the highest heritability
+					index (around 0.6) and BMI (around 0.3) the lowest. Often the heritability indexes of a trait
+					are different for children and adults (i.e. eczema). This is often because the environmental 
+					differences on the certain trait may be less significant for children. For these traits, I discuss 
+					both adult and children heritability scores.</p>
 
 				<section>
 					<div class="row">
