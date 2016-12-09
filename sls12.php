@@ -65,9 +65,15 @@
 				</a>
 			</article>
 			<article id="tree" class="panel">
-                    <h2 id="yellow-highlight" class="text-center" style="margin-bottom: 10px;">Family Lineage</h2>
-                    <i class="text-faded">Click on one of the below nodes to expand the tree. Clicking on an already expanded node will contract the tree.</i>
+                    <h2 id="yellow-highlight" class="text-center" style="margin-bottom: 10px;">Family Tree</h2>
+                    <p>This is a very simple family lineage tree that visualizes my family heritage to give the
+                    	audience a better sense of how my parents and ancestors have influenced me to become who I am
+                    	today. This is not only meant to show the "Natture"'s influence on my behavioral and genetic traits,
+                    	but also "Nurture" aspects like family values and ways of discipline that might have also affected
+                    	the way I am today.</p>
                     <div id="college-tree" class="wow fadeIn" data-wow-delay="0.5s"></div>
+                    <b>Figure 1. </b><i class="text-faded">Click on one of the below nodes to expand the tree. Clicking on an already expanded node will contract the tree.</i>
+                    
         	</article>
 
 			<article id="work" class="panel">
@@ -169,8 +175,37 @@
 						are inherently interdependent. Hence, it is impossible to completely distinguish the line 
 						between Nature’s and Nurture’s effect on human traits.</p>
 
-					<b>How does the effect Nurture has on behavioral and physical traits differ?</b>
-
+					<b>What is Nurture’s role in shaping behavioral and physical traits?</b>
+					<p>After examining the heritability scores and getting at a closer look how my parent’s traits 
+						have been passed down to me, it is clear that Nature has a definitive role in most behavioral 
+						and physical traits. It is also less ambiguous what “Nature” factors refer to - simply genetic 
+						material passed on from parents - compared to “Nurture” factors. Nurture could refer to habits, 
+						past experiences, environment, and residing country. Therefore it is important to mention how 
+						the different role Nurture plays in forming one’s behavioral and physical characteristics.</p>
+					<p>We could see that many of the behavioral traits are influenced by race. For example, Asians 
+						tend to be more neurotic than non-Asians, but non-Asians tend to be more extroverted than Asians. 
+						Studies show that this is largely due to the fact that Asian culture highly values collectivism, 
+						whereas Western cultures tend to value individualism more. It is interesting to see how race, 
+						which is inherently determined by Nature through specific DNA sequences, ultimately shapes aspects 
+						like culture and values that we would conventionally regard as “Nurture”. This could possibly be 
+						attributed to the fact that cultures evolved differently in isolated environments before 
+						immigrating to different countries became more common in recent decades. Hence, countries close 
+						in proximity (i.e. South Korea and Japan) tend to generally have similar traditional 
+						and cultural values. In general, culture within a population (that is essentially related 
+						to race) ultimately molds the critical behavioral traits. </p>
+					<p>For physical traits, it seems like “Nurture” factors that are formed relatively more voluntarily 
+						play a bigger role in shaping specific traits. In this context, I refer to these as habits that 
+						individuals are able to voluntarily determine. For example, an individual can determine his eating 
+						habits more easily than he can determine what kind of culture he surrounds himself with. We’ve 
+						already mentioned that BMI is highly dependant on one’s diet and exercising habits. Though we cannot 
+						completely ignore the underlying sociocultural aspects that influence the way we determine and thus 
+						strive for desirable traits, we can surely see how these habits can affect these physical traits. </p>
+ 					<b>Final Thoughts</b>
+					<p>While working on this project, I was able to analyze both my physical and behavioral characteristics 
+						in a different angle that made me learn why and how I became the person I am today. It was particularly 
+						fascinating to see that behavioral characteristics actually have higher heritability scores than we 
+						would expect. Through this project, I have become more aware of the effects of my environment on my 
+						characteristics and the possibility of change for these traits based on my habits and willingness to change. </p>
 
         	</article>
 

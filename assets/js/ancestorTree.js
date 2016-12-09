@@ -59,9 +59,13 @@ function update(source) {
         .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
         .on("click", click);
 
+
     nodeEnter.append("circle")
         .attr("r", 1e-6)
+        .attr("class", "circle")
         .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+
+    d3.select(".circle").style("fill", "lightsteelblue");
 
     nodeEnter.append("text")
         .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
@@ -74,10 +78,11 @@ function update(source) {
     // Transition nodes to their new position.
     var nodeUpdate = node.transition()
         .duration(duration)
-        .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+        .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
+        .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
     nodeUpdate.select("circle")
-        .attr("r", 4.5)
+        .attr("r", 8.0)
         .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
     nodeUpdate.select("text")
@@ -90,7 +95,8 @@ function update(source) {
         .remove();
 
     nodeExit.select("circle")
-        .attr("r", 1e-6);
+        .attr("r", 1e-6)
+        .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
     nodeExit.select("text")
         .style("fill-opacity", 1e-6);

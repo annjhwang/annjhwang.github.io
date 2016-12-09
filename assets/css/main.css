@@ -28,6 +28,27 @@
 	opacity: 0.00001;
 }
 
+.node {
+  cursor: pointer;
+}
+
+.circle{
+	fill: lightsteelblue !important;
+	stroke: steelblue;
+  	stroke-width: 1.5px;
+
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+}
+
 p.citation {
     line-height: 2;
     padding-left: 25px;

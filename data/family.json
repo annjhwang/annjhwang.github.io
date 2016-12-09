@@ -4,15 +4,31 @@
     {
       "name": "Mom: Koeun Lim",
       "children": [
-        {"name": "Grandma: Hye-ja Kim"},
-        {"name": "Grandpa: Lim"}
+        {"name": "Grandma: Hye-ja Kim",
+        "children": [
+        {"name": "Grandma: Yongtaek Kim"},
+        {"name": "Grandpa: Wonjoong Yoon"}
+        ]},
+        {"name": "Grandpa: Jongchan Lim",
+        "children": [
+        {"name": "Grandma: Junggeun Jung"},
+        {"name": "Grandpa: Daekyung Lim"}
+        ]}
         ]
     },
     {
       "name": "Dad: Junseok Hwang",
       "children": [
-        {"name": "Grandma: Sung-ja Son"},
-        {"name": "Grandpa: Jong-gu Hwang"}
+        {"name": "Grandma: Sung-ja Son",
+        "children": [
+        {"name": "Grandma: Myungja Choi"},
+        {"name": "Grandpa: Wonjoong Son"}
+        ]},
+        {"name": "Grandpa: Jong-gu Hwang",
+        "children": [
+        {"name": "Grandma: Kyungah Kim"},
+        {"name": "Grandpa: Wonjoong Hwang"}
+        ]}
       ]
     }
   ]
