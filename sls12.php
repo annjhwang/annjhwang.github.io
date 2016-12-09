@@ -93,9 +93,9 @@
 				<p>	
 				Hi! I'm Annie. This is an interactive website that helps you learn both about me, and concepts that I have learned in 
 				my "Understanding Darwinism" class at Harvard. This website covers concepts of Nature vs. Nurture, heritability, and 
-				behavioral genetics. This webpage addresses the focuses on 6 physical and 5 behavioral qualities. 
+				behavioral genetics. This webpage focuses on 6 physical and 5 behavioral qualities. 
 				Some examples for physical qualities include: dimples, height, BMI, etc. Some examples for 
-				behavioral qualities include: extroversion, openness, neuroticism, etc. These behavioral traits were particularly 
+				behavioral qualities include: extraversion, openness, neuroticism, etc. These behavioral traits were particularly 
 				interesting to research because studies showed that each of the behavioral traits had different heritability scores
 				depending on the country. I've created a bar graph to show the difference in heritability scores in the "Heritability" tab.
 				I also created an interactive family lineage tree
