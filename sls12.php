@@ -12,31 +12,41 @@
 
 
 		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+		<style>
+		
+		</style>
 	    <script type="text/javascript">
-	      google.charts.load('current', {'packages':['corechart']});
-	      google.charts.setOnLoadCallback(drawChart);
-	      function drawChart() {
-	        var data = google.visualization.arrayToDataTable([
-	          ['Heritability', 'Frequency'],
-	          [ 0.5,      60],
-	          [ 0.4,      32],
-	          [ 0.8,     50],
-	          [ 0.9,      20],
-	          [ 0.6,      15],
-	          [ 0.3,    82]
-	        ]);
+	     google.charts.load('current', {packages: ['corechart', 'bar']});
+		google.charts.setOnLoadCallback(drawMaterial);
 
-	        var options = {
-	          title: 'Heritability of traits',
-	          hAxis: {title: 'Heritability', minValue: 0, maxValue: 1.0},
-	          vAxis: {title: 'Frequency', minValue: 0, maxValue: 100},
-	          legend: 'none'
-	        };
+		function drawMaterial() {
+	      var data = google.visualization.arrayToDataTable([
+	        ['Trait', 'US', 'Canada', 'Germany'],
+	        ['Extroversion', 0.49, 0.53, 0.56],
+	        ['Conscientiousness', 0.48, 0.44,0.53],
+	        ['Agreeableness', 0.33, 0.41,0.42],
+	        ['Neuroticism', 0.42, 0.41,0.52],
+	        ['Openness', 0.58, 0.61, 0.53],
+	      ]);
 
-	        var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
-	        chart.draw(data, options);
-	      }
+	      var options = {
+	        hAxis: {
+	          title: 'Trait'
+	        },
+	        vAxis: {
+	          title: 'Heritability Score',
+	          minValue: 0,
+	        },
+	        bars: 'vertical',
+	        width: 800,
+	        height: 400
+	      };
+	      var material = new google.charts.Bar(document.getElementById('chart_div'));
+	      material.draw(data, options);
+	    }
 	    </script>
+
+
 
 	</head>
   <body>
@@ -46,8 +56,8 @@
 		<nav id="nav">
 			<a href="#me" class="icon fa-home active"><span>Home</span></a>
 			<a href="#work" class="icon fa-folder"><span>Project</span></a>
-			<a href="#tree" class="icon fa-folder"><span>Tree</span></a>
-			<a href="#heritability" class="icon fa-folder"><span>Heritability</span></a>
+			<a href="#tree" class="icon fa-folder"><span>Family Tree</span></a>
+			<a href="#heritability" class="icon fa-folder"><span>Heritability Chart</span></a>
 			<a href="#analysis" class="icon fa-folder"><span>Final Analysis</span></a>
 			<a href="#citation" class="icon fa-folder"><span>Work Cited</span></a>
 		</nav>
@@ -149,8 +159,11 @@
 			</article>
 
 			<article id="heritability" class="panel">
-				<!-- college tree graph -->
                     <h2 id="yellow-highlight" class="text-center" style="margin-bottom: 10px;">Heritability Graph</h2>
+                    <p>This is a simple graph that outlines the difference in heritability index for the 5 big behavioral
+                    	traits among different countries with a Caucasian population. The difference between in the heritability index between these
+                     countries with a mostly Caucasian population imply that different countries have different cultural/nurture aspects that affect
+                    	these traits in different degrees.</p>
                     <div id="chart_div" style="width: 900px; height: 500px;"></div>
         	</article>
 
