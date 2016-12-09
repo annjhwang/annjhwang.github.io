@@ -153,30 +153,28 @@
 
         	<article id="analysis" class="panel">
 				<!-- college tree graph -->
-                    <h2 id="yellow-highlight" class="text-center" style="margin-bottom: 10px;">Final Analysis</h2>
-                    <p>While working on this project, I was able to analyze both my physical and behavioral characterestics in a different
-                    	angle that made me learn why and how I became the person I am today. It's interesting to see that most of my physical characteristics
-                    	are more influenced by my genetic code, rather than environmental factors. It's even more interesting to see that behavioral
-                    	characteristics tend to have a lower hertiability score, meaning that my personality and character traits have also been heavily
-                    	influenced by my environment. It's important to note that most of these characteristics are not completely heritable; none of them
-                    	have a heritability score of 1.0. This could also then possibly mean that these characteristics are bound to change for me in the coming years.
-                    	Having done this project and taken this course, I have become more aware of the effects of my environment on my characteristics and the possibility
-                    	of change for these traits based on my habits and willingness to change. 
-                     
-                     	essentially, it seems that nurture tames nature's influence on traits. but what distinguishes nurture's influence on physical
-                     	vs. behavioral traits is that physical traits are more determined by HABITS whereas behavioral traits are more determined by environment
-                     	not habit. although its important to note that ones' habits are also somewhat determined by one's environment, there is a slight difference
-                     	that should be taken into account when we mention these two.
+                    <h3 id="yellow-highlight" class="text-center" style="margin-bottom: 10px;text-align:center">Analysis</h3>
+                    <b>So what is the relationship between Nature and Nurture?</b>
 
-                     	it also works the other way around. some dispositional traits that are inherited through genetics could influence one's physical traits.
-                     	for example, someone who scores highly on neuroticism, could more likely have eczema because of high stress levels.
+					<p> After completing this project, I was surprised to learn that there are many cases where 
+						<i>Nature actually affects Nurture</i>. By this, I mean that certain qualities or traits 
+						that we inherit from our parents (thus by Nature) influence the way we form our habits or 
+						choose the environment to be in (Nurture). For example, an individual born with a naturally 
+						high low score on self-discipline, a subcategory of conscientiousness, could be less likely 
+						to keep a healthy, balanced diet. Hence, the trait they “naturally” inherited from their 
+						parents would ironically affect the way the individual “nurtures” her body. However, 
+						the story does not end here.</p>
+					<p>Consider the case that this type of unhealthy habits were to continue over multiple 
+						generations. Given that we’ve seen that BMI is also a relatively heritable character, 
+						eventually the overall BMI that is passed down onto next generations would be higher. Here 
+						we actually see that <i>Nurture affecting Nature</i>. One thing we can take away from this 
+						project is that the relationship between Nature and Nurture is surely a complicated one; they 
+						are inherently interdependent. Hence, it is impossible to completely distinguish the line 
+						between Nature’s and Nurture’s effect on human traits.
 
-                     	also interesting to note is that race affects physical characteristics a lot.
+					<b>How does the effect Nurture has on behavioral and physical traits differ?</b>
 
-                     	ALSO FOR BEHAVIORAL, DEPENDS ON COUNTRY!!
-                     	So in short, physical and behavioral traits are interdependent, just as nature and nurture are.
-                     	Religious upbringing especially reduces the influence genetics have on personality traits
-                    </p>
+
         	</article>
 
         	<article id="citation" class ="panel">
