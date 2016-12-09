@@ -120,8 +120,8 @@
 				<p>For this section, I focused on 6 different physical traits: BMI, Height, Myopia (Nearsightedness), Eczema,
 					Dimples, Asthma. Out of these 6 traits, studies showed that Height has the highest heritability
 					index (around 0.6) and BMI (around 0.3) the lowest. Often the heritability indexes of a trait
-					are different for children and adults (i.e. eczema). This is often because the environmental 
-					differences on the certain trait may be less significant for children. For these traits, I discuss 
+					were different for children and adults (i.e. eczema). This is because the environmental 
+					differences on certain traits may be less significant for children. For these traits, I discuss 
 					both adult and children heritability scores. You can click on each trait to find out more.</p>
 
 				<section>
@@ -155,8 +155,10 @@
 				<section>		
 					<h4>Behavioral Traits</h4>
 
-					<p>For the behavioral traits, I cover the 5 Big Personality Traits (Neuroticm, Openness, Extroversion, Agreeableness, and Conscientiousness) that psychologists often use to define someone's personality. 
-						Studies show that these personality traits are also found in social mammals like chimpanzees, dogs, etc.</p>
+					<p>For the behavioral traits, I decided to focus on the 5 Big Personality Traits - Neuroticm, Openness, Extroversion, Agreeableness,
+					 and Conscientiousness- that psychologists often use to define someone's personality. It was interesting to learn that
+						these personality traits are also found in social mammals like chimpanzees, dogs, etc. You may click on each
+						trait to learn more.</p>
 					<div class="row" style="center">
 						<div class="2u 3u$(mobile)">
 							<a href="#" class="image fit"><img src="images/neuro.png" alt="" height="100" ></a>
@@ -183,10 +185,10 @@
 
 			<article id="heritability" class="panel">
                     <h2 id="yellow-highlight" class="text-center" style="margin-bottom: 10px;">Heritability Graph</h2>
-                    <p>This is a simple graph that outlines the difference in heritability index for the 5 big behavioral
-                    	traits among different countries with a Caucasian population. The difference between in the heritability index between these
+                    <p>This is a simple graph that outlines the difference in heritability index score for the 5 big behavioral
+                    	traits among different countries with a majority Caucasian population. The difference in the heritability index score between these
                      countries with a mostly Caucasian population imply that different countries have different cultural/nurture aspects that affect
-                    	these traits in different degrees.</p>
+                    	these traits to different degrees.</p>
                     <div id="chart_div" style="width: 900px; height: 500px;"></div>
         	</article>
 
