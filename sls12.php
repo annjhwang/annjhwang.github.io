@@ -198,28 +198,30 @@
                     <b>So what is the relationship between Nature and Nurture?</b>
 
 					<p> After completing this project, I was surprised to learn that there are many cases where 
-						<i>Nature actually affects Nurture</i>. By this, I mean that certain qualities or traits 
+						Nature actually affects Nurture. By this, I mean that certain qualities or traits 
 						that we inherit from our parents (thus by Nature) influence the way we form our habits or 
 						choose the environment to be in (Nurture). For example, an individual born with a naturally 
-						high low score on self-discipline, a subcategory of conscientiousness, could be less likely 
+					    low score for self-discipline, a subcategory of conscientiousness, could be less likely 
 						to keep a healthy, balanced diet. Hence, the trait they “naturally” inherited from their 
-						parents would ironically affect the way the individual “nurtures” her body. However, 
-						the story does not end here.</p>
-					<p>Consider the case that this type of unhealthy habits were to continue over multiple 
-						generations. Given that we’ve seen that BMI is also a relatively heritable character, 
-						eventually the overall BMI that is passed down onto next generations would be higher. Here 
-						we actually see that <i>Nurture affecting Nature</i>. One thing we can take away from this 
-						project is that the relationship between Nature and Nurture is surely a complicated one; they 
-						are inherently interdependent. Hence, it is impossible to completely distinguish the line 
-						between Nature’s and Nurture’s effect on human traits.</p>
+						parents would ironically affect the way the individual “nurtures” her body. What's even
+						more fascinating is the possibility for Nurture to affect Nature.</p>
+					<p>Let's say that this type of unhealthy habits were to continue over multiple 
+						generations. Given that BMI is a relatively heritable character, 
+						eventually the overall "BMI gene" that is passed down onto next generations would be more present. This would
+						mean that Nurture also has the possiblity of affecting Nature in the long run. One thing we can take away from this 
+						observation is that the relationship between Nature and Nurture is surely a complicated one, because they 
+						are inherently interdependent. It is impossible to completely distinguish the line 
+						between Nature’s and Nurture’s effect on human traits, because what seems like Nurture is influenced by Nature
+						and what seems like Nature is influenced by Nurture.</p>
 
 					<b>What is Nurture’s role in shaping behavioral and physical traits?</b>
-					<p>After examining the heritability scores and getting at a closer look how my parent’s traits 
+					<p>After examining the heritability scores and getting a closer look at how my parent’s traits 
 						have been passed down to me, it is clear that Nature has a definitive role in most behavioral 
-						and physical traits. It is also less ambiguous what “Nature” factors refer to - simply genetic 
-						material passed on from parents - compared to “Nurture” factors. Nurture could refer to habits, 
-						past experiences, environment, and residing country. Therefore it is important to mention how 
-						the different role Nurture plays in forming one’s behavioral and physical characteristics.</p>
+						and physical traits. We have also seen that Nurture has had a significant role in shaping
+						many of the traits we have examined. In this section, I'd like to elaborate more on how
+						exactly Nurture has affected physical and behavioral traits, because “Nurture” factors could be a 
+						little more ambiguous than “Nature” factors thst simply refer to genetic 
+						material passed on from parents. </p>
 					<p>We could see that many of the behavioral traits are influenced by race. For example, Asians 
 						tend to be more neurotic than non-Asians, but non-Asians tend to be more extroverted than Asians. 
 						Studies show that this is largely due to the fact that Asian culture highly values collectivism, 
@@ -232,17 +234,19 @@
 						and cultural values. In general, culture within a population (that is essentially related 
 						to race) ultimately molds the critical behavioral traits. </p>
 					<p>For physical traits, it seems like “Nurture” factors that are formed relatively more voluntarily 
-						play a bigger role in shaping specific traits. In this context, I refer to these as habits that 
-						individuals are able to voluntarily determine. For example, an individual can determine his eating 
+						play a bigger role in shaping specific traits. In this context, I refer to "voluntary traits" as habits that 
+						individuals have consciously determined. For example, an individual can determine his eating 
 						habits more easily than he can determine what kind of culture he surrounds himself with. We’ve 
 						already mentioned that BMI is highly dependant on one’s diet and exercising habits. Though we cannot 
 						completely ignore the underlying sociocultural aspects that influence the way we determine and thus 
-						strive for desirable traits, we can surely see how these habits can affect these physical traits. </p>
+						strive for desirable traits, we can surely see how these habits can affect these physical traits. It
+						was really interesting to learn about how different habits and environments could have a big influence
+						in the shaping of these physical traits</p>
  					<b>Final Thoughts</b>
 					<p>While working on this project, I was able to analyze both my physical and behavioral characteristics 
 						in a different angle that made me learn why and how I became the person I am today. It was particularly 
 						fascinating to see that behavioral characteristics actually have higher heritability scores than we 
-						would expect. Through this project, I have become more aware of the effects of my environment on my 
+						would expect. Through this project, I have also become more aware of the effects of my environment on my 
 						characteristics and the possibility of change for these traits based on my habits and willingness to change. </p>
 
         	</article>
