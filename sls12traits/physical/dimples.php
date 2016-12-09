@@ -18,19 +18,17 @@
   		<img src="/images/dimples.png" width="240" height="170" margin=60/>
   		<img src="/images/daddimples.png" width="240" height="170" margin=60/>
  		</center>
-		<p>Heritability: highly heritable<br>
-		   Dominance/Recessiveness: dominant ; found in my dad<br>
-		   Parents' Influence: Father has dimples, mother does not<br>
-		   Nurture's Influence:<br>
-		   analysis: "irregular" dominant traitnature played a bigger role for this trait; my dad has dimples, but my mom does not.
-				I have dimples, but my brothers do not. After doing some reseach, it seems like dimples are an irregular dominant gene.
-			</p>
-			<p>
-				Transfer of dimples from parents to children occurs due to just one gene. The dimple creating genes   are present in the sex cells prior to the process of reproduction. Each parent provides one of these genes to the child.  So, if both the parents have dimples, the children have 50-100% chances of inheriting dimple genes.
-
-If, however, only one parent has dimple genes, the chances of the children inheriting the genes are 50%. If neither of the parents has the dimple genes, their children will not have dimples.
-
-
+		<p>Heritability: <a href="http://omim.org/entry/126100">Studies suggest it to be highly heritable</a><br>
+		   Nature's Influence: Father has dimples, mother does not<br>
+		   Nurture's Influence: Minimal, unless plastic surgery is performed<br>
+		   Analysis: I have a single dimple on my right cheek. Dimples are known to be fairly heritable. The presence of dimples is known to be dominant,
+		   while the absence of it is recessive. Dimples are actually known to be an "irregular" dominant trait, which means that having two parents with dimples does
+		   not always 100% guarantee the presence of dimples in the child. Studies also show that just one gene affects the transfer of dimples from parents to children. This specifc gene is found in the sex cells before the process of reproduction, one
+		   allele coming from each parent. Hence, in the case that both parents have dimples, there is around 50-100% chance that the children will also have dimples. On the other hand,
+		   if only one of the parents have dimples, there is a roughly 50% probability of the child having dimples. Lastly, in the case that neither parents have dimples,
+		   the probabily of the child having dimples drops down to around 0%.My dad has dimples, while my mother does not. My two brothers do not have dimples, while I
+		   have one dimple on my right cheek. It is not surprising that only 1/3 of has dimples, considering that only my dad has dimples, and dimples are an irregular dominant
+		   trait. 
 			</p>
 	</div>
 	  	<!-- Scripts -->
