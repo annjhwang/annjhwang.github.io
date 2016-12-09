@@ -18,16 +18,19 @@
   		<img src="/images/1-a-asthma-definition.png" width="210" height="180" margin=60/>
  		</center>
 	<p>
+		My asthma: I had asthma until I was 10<br>
 		Heritability of trait: <a href="http://www.sciencedirect.com.ezp-prod1.hul.harvard.edu/science/article/pii/S0012369216373779">0.4-0.7</a><br>
 		Nature's Influence: Father had asthma at a young age<br>
-		Nurture's influence: Second-hand smoking, air pollution, dusty/unclean environement<br>
-		Analysis of trait: Asthma is one of the most common chronic allergic diseases found in children. Up until I reached the age of 10, I personally
-		suffered from asthma as well. Various studies in the past have reasoned that heritability of asthma ranges from around 0.4 to 0.7. Though asthma
-		is highly dependent on genetics, it is also effected by aspects of nurture such as air pollution and general cleanliness of an environment.
+		Nurture's influence: Second-hand smoking, air pollution, dusty/unclean environement, minor allergies<br>
+		Analysis of trait: Asthma is one of the most common chronic allergic diseases found in children in developing countris. 
+		Up until I reached the age of 10, I personally
+		suffered from asthma as well. Various studies in the past have shown that heritability of asthma ranges 
+		from around 0.4 to 0.7. Though asthma is strongly affected by genetics, the effects nurture and one's environment 
+		have cannot be ignored. Air pollution and general hygiene of an environment can have a big effect on one's development of asthma.
 		It is important to highlight that, similar to eczema, asthma has a higher heritability index and frequency in children than in adults. This is largely
 		due to the fact that both asthma and eczema are partially caused by weaker immunologic defenses and/or allergic reactions. Since most children do not
 		have a strong immune system, nor a near-comprehensive knowledge about what allergies they have, it is reasonable that these diseases are more common in children.
-		Hence, we could justify that nurture also has a prominent influence on one's likelihood of having asthma, especially as an adult.
+		Hence, we could justify that nurture also has a prominent influence on one's likelihood/unlikelihood of having asthma, especially in adults.
 		
 	</p>
 </div>

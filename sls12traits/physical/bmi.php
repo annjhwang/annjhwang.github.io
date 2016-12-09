@@ -17,19 +17,20 @@
   		<img src="/images/BMI.png" width="210" height="180" margin=60/>
  		</center>
 	<p>
+		My BMI: 22 (healthy)<br>
 		Heritability: <a href="http://www.nature.com.ezp-prod1.hul.harvard.edu/ng/journal/v47/n10/full/ng.3390.html">0.3-0.6(studies vary)</a><br>
-		Nature's Influence: Mom has BMI of around 26 (healthy for her age), Dad: 25 (healthy)<br>
+		Nature's Influence: Mom: 26 (healthy for her age), Dad: 25 (healthy)<br>
 		Nurture's influence on trait: Healthy diet, exercise, stress level <br>
 		Analysis of trait: I have BMI of 22.0, while my parents have BMIs of around 25. Studies show that BMI has a slightly lower heritability index than most 
 		other physical traits (i.e. height that has a heritability
-		index of around 0.8). This is particularly because various "nurture" factors like eating and exercising habits are key influencers for
-		one's body mass index. However, the reason the heritability score isn't lower is because these factors that we would initially think of as
-		"nurture" are most likely influenced by other behavioral traits we may have that have a higher heritability score. For example, individuals with
+		index of around 0.8). Although many studies have also shown that BMI is also highly dependent on race (therefore Nature), many "nurture" factors like eating habits and 
+		frequency of exercise could really influence one's body mass index. It's really ironic, however, that these traits (eatin habits)
+		that we would initially think of as Nurture are most likely affected by Nature's effect on personality traits that
+		we partly inherit from our parents. For example, individuals with
 		a low self-disicpline value, which has a relatively high heritablity index <a href="http://download.springer.com.ezp-prod1.hul.harvard.edu/static/pdf/944/art%253A10.1023%252FA%253A1012294324713.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1012294324713&token2=exp=1481226396~acl=%2Fstatic%2Fpdf%2F944%2Fart%25253A10.1023%25252FA%25253A1012294324713.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1023%252FA%253A1012294324713*~hmac=db261d3e5f344f06dcafa1e4fee964399b3a206d5c4ca6b9b7d94c3421799a81"
-		>(0.28)</a> for a behavioral trait, would most likely have a higher BMI. Hence, it is 
-		very hard to distinguish between nurture's and nature's influence on traits like BMI, because they are inherently interdependent. BMI is also race
-		and sex dependent, which also highlights nature's effect on BMI.
-		
+		>(0.28)</a> for a behavioral trait, would most likely have a higher BMI because of a possible lack of control
+		to exercise regularly and eat moderately. By examining this specific trait, we can see that it is impossible
+		to completely separate the effects of Nature and Nurture because they are inherently interdependent. 	
 	</p>
 </div>
 	  	<!-- Scripts -->

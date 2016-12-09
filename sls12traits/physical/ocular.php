@@ -20,18 +20,19 @@
   		<img src="/images/eyes.png" width="240" height="160" margin=60/>
  		</center>
 	<p>
+		My myopia: I am nearsighted<br>
 		Heritability: <a href="http://iovs.arvojournals.org.ezp-prod1.hul.harvard.edu/article.aspx?articleid=2189796">Around 0.7</a><br>
 		Nature's Influence: Mother - nearsighted; father - nearsighted<br>
 		Nurture's Influence on trait: Improper prescription for glasses/contact lens<br>
-		Analysis of trait: My parents are slightly nearsighted, and my brothers and I have all inherited the trait as well. 
+		Analysis of trait: My parents are both nearsighted, and my brothers and I have all inherited the trait as well. 
 		<a href="">This study </a>focuses on the heritability of myopia/nearsightedness in Koreans. It was truly interesting to read that
-		myopia is more common in individuals of East Asian descent than those of Western/European descent. Similar to height and BMI,
-		myopia is another physical trait that is influenced by the race of the individual; hence, it is not surprising that these traits
+		myopia is more common in individuals of East Asian descent than those of Western/European descent. Similar to the height and BMI traits,
+		myopia is another physical trait that is influenced by the race (Nature) of the individual; hence, it is not surprising that these traits
 		have relatively high heritability scores. What was most eye-opening to learn was that Asian females were more likely than males to be both 
 		myopic and astigmatic. The study hypothesizes that this is "possibly due to the shared family environments such as [Asian] family culture or lifestyles. 
 		The clustering of myopia within a family may be attributed to a culture of shared risk factors such as reading (or protective factors such as outdoor activity) 
 		or shared susceptibility genes for myopia in the family. " (Kim) Therefore, both nature (genes) and nurture (one's family enviroment) could 
-		have a significant influence on one's chances to be myopic.
+		have a significant influence on one's chances on being myopic.
 	</p>
 	</div>
 	  	<!-- Scripts -->

@@ -95,7 +95,12 @@
 				my "Understanding Darwinism" class at Harvard. This website covers concepts of Nature vs. Nurture, heritability, and 
 				behavioral genetics. This webpage addresses the focuses on 6 physical and 5 behavioral qualities. 
 				Some examples for physical qualities include: dimples, height, BMI, etc. Some examples for 
-				behavioral qualities include: extroversion, openness, neuroticism, etc. 
+				behavioral qualities include: extroversion, openness, neuroticism, etc. These behavioral traits were particularly 
+				interesting to research because studies showed that each of the behavioral traits had different heritability scores
+				depending on the country. I've created a bar graph to show the difference in heritability scores in the "Heritability" tab.
+				I also created an interactive family lineage tree
+				hat visualizes my family heritage to give you a better sense of how my parents and ancestors have influenced (both Nature and Nurture)
+				me to become who I am today. This tree can be found in the "Family Tree" tab.
 				</p>
 				<p>
 				For each trait, I first address its heritability index to see whether nature or 
@@ -107,17 +112,17 @@
 				a scale of 0-1.0 to address how strong that particular trait is. In this analysis part, I also 
 				discuss some interesting things I learned while researching the heritability of the trait.
 				</p>
-				<p> While research more about these behavioral qualities, the question my project aims to answer is this: 
+				<p> In my final analysis, the question my project aims to answer is this: 
 					What is the relationship between Nature and Nurture on physical and behavioral traits? 
 				</p>
 				<h4>Physical Traits</h4>
 
-				<p>I look into 6 different physical traits: BMI, Height, Myopia (Nearsightedness), Eczema,
+				<p>For this section, I focused on 6 different physical traits: BMI, Height, Myopia (Nearsightedness), Eczema,
 					Dimples, Asthma. Out of these 6 traits, studies showed that Height has the highest heritability
 					index (around 0.6) and BMI (around 0.3) the lowest. Often the heritability indexes of a trait
 					are different for children and adults (i.e. eczema). This is often because the environmental 
 					differences on the certain trait may be less significant for children. For these traits, I discuss 
-					both adult and children heritability scores.</p>
+					both adult and children heritability scores. You can click on each trait to find out more.</p>
 
 				<section>
 					<div class="row">

@@ -17,6 +17,7 @@
   		<img src="/images/extroverted.crdownload" width="240" height="170" margin=60/>
  		</center>
 	<p>
+		My extraversion: 73%
 		Heritability of trait: <a href="http://download.springer.com.ezp-prod1.hul.harvard.edu/static/pdf/944/art%253A10.1023%252FA%253A1012294324713.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1012294324713&token2=exp=1481226396~acl=%2Fstatic%2Fpdf%2F944%2Fart%25253A10.1023%25252FA%25253A1012294324713.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1023%252FA%253A1012294324713*~hmac=db261d3e5f344f06dcafa1e4fee964399b3a206d5c4ca6b9b7d94c3421799a81">0.49-0.57</a><br>
 		Nature's Influence: Mother-more introverted; Father-People person <br>
 		Nurture's influence on trait: Societal pressures to be more extroverted<br>
@@ -27,7 +28,7 @@
 		<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2630227/"> This study </a> highlights that Asian men tend to have a lower mean
 		score for extraversion compared to the Western counterparts. Similar to why the Asian population has a higher mean score in agreeablenss,
 		Asians tend to score lower on extraversion, because while agreeableness may facilitate the maintenance of social harmony,
-		high extraversion may violate those values. It is truly interesting to see how in the end, culture and social context has such a big role on
+		high extraversion may violate those values. It is evident that culture and social context have a big role on
 		these behavioral traits.
 	</p>
 </div>

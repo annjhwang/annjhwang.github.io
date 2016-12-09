@@ -19,17 +19,24 @@
   		<img src="/images/family.png" width="240" height="170" margin=60/>
  		</center>
 	<p>
+		My height: 5'2''<br>
 		Heritability: <a href="http://www.nature.com.ezp-prod1.hul.harvard.edu/ng/journal/v42/n7/full/ng.608.html">Around 0.8<a><br>
 		Nature's Influence: Parents are both short (dad:5'6'', mom:5'2'') <br>
 		Nurture's Influence: Sleeping habits, nutrition, execercise<br>
-		Analysis: Many recent studies have shown the human height has a fairly high heritability index of around 0.8. <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3EF884AEA534C90F46F95C9FA3944C84/S1369052300004001a.pdf/div-class-title-heritability-of-adult-body-height-a-comparative-study-of-twin-cohorts-in-eight-countries-div.pdf"> This particular European study</a>
+		Analysis: Many recent studies have shown that the human height has a fairly high heritability index of around 0.8. <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3EF884AEA534C90F46F95C9FA3944C84/S1369052300004001a.pdf/div-class-title-heritability-of-adult-body-height-a-comparative-study-of-twin-cohorts-in-eight-countries-div.pdf"> 
+		It is already fairly well known that race (therefore Nature) has a significant role in the mean height of a certain
+		racial population. However, this is not to say that Nurture is not able to affect one's height.
+		This particular study</a> on different countries with Caucasian populations
 		analyzed the effect affluence has on the genetic architecture of body height. The study showed that the environmental factors on men, especially, were minimal.
+		
 		This highlights the fact that this specific nurture component (affluence) does not greatly affect the height of an individual. What was interesting, however, was
 		the difference in the height variation between these different European countries. For example, the average height for men in Italy is 177cm, while the average height for men in Netherlands
-		is 184cm. This is particularly interesting, considering that the actual genetic makeup between different European countries would be very similar, because they all come from Caucasian descent.
-		This could possibly mean that different environmental factors in within these countries are also causing the difference in mean height. Although the exact reason
-		for this mean height discrepancy is unclear, it is evident that one's genetic makeup, and thus ethnic background, has a big role in determining one's height. Hence, looking back at
-		my whole family members' heights, it is not surprising that we are all rather more petite Asian men/women/girls/boys. Though I usually slept early, maintained a healthy diet, and exercised
+		is 184cm. This is particularly interesting, considering that the actual genetic makeup between the Caucasian men from these different countries would be very similar 
+		(sharing DNA sequences that encode the Caucasian gene).
+		This could possibly mean that different environmental factors (therefore Nurture) within these countries could be causing the difference in mean height. 
+
+		Although the exact reason for this mean height discrepancy is unclear, it is evident that something more than one's genetic makeup has a role in determining one's height. However, because it's
+		still more affected by genes more than anything, it is not surprising everyone in my family are all pretty petite. Though I usually slept early, maintained a healthy diet, and exercised
 		regularly, my genetic makeup that I've inherited from my parents seemed to trump these efforts to become taller. In a more high level interpretation of this data, this may mean that it is more likely 
 		for a child that has an unhealthy nutritional diet with tall parents to still end up being tall than a child that has a healthy nutritional diet with short parents end up being tall.
 

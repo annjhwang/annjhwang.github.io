@@ -18,14 +18,17 @@
   		<img src="/images/eczema.png" width="240" height="170" margin=60/>
  		</center>
 	
-	<p>Heritability: <a href="http://www.twinsuk.ac.uk/wp-content/uploads/2012/06/Bataille-JEADerm-2012.pdf">Around 0.6</a><br>
+	<p>My eczema: I have eczema (atopy) on both of my inner arms.
+		Heritability: <a href="http://www.twinsuk.ac.uk/wp-content/uploads/2012/06/Bataille-JEADerm-2012.pdf">Around 0.6</a><br>
 		Nature's Influence: Neither parents have eczema currently, but father used to when an infant<br>
-		Nurture's Influence: Sleeping habits, nutrition, exercise, stress<br>
-		Analysis: Twin studies in Denmark show that the heritabilty index of eczema and other skin diseases are affected both by nature and nurture.
+		Nurture's Influence: Poor nutrition, insufficient exercise, high stress<br>
+		Analysis: <a href="http://www.twinsuk.ac.uk/wp-content/uploads/2012/06/Bataille-JEADerm-2012.pdf">Twin studies </a>in Denmark show 
+		that the heritabilty index of eczema and other skin diseases are affected both by nature and nurture.
 		I have eczema around my arms, and they get a lot worse when I eat unhealthy or don't get enough sleep. Neither of my parents have
 		eczema. Eczema is an interesting physical trait to examine, because the heritability index for eczema in children is around 0.9, while
 		the heritability index of eczema in adults are around 0.6. This shows that one's environment and habits can greatly help cure eczema
-		over the years with good care. </p>
+		over the years with good care. Just like BMI, eczema could be indirectly affected by one's natural disposition (low self-discipline)
+		that affects the way one nurtures her body. Hence, this trait also shows that Nature and Nurture are interdependent.</p>
 	</div>
 	  	<!-- Scripts -->
 	<script src="/assets/js/jquery.min.js"></script>

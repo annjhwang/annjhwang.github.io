@@ -18,8 +18,9 @@
   		<img src="/images/conscience.png" width="240" height="170" margin=60/>
  		</center>
 	<p>
+		My conscientiousness: 80%
 		Heritability of trait: <a href="http://download.springer.com.ezp-prod1.hul.harvard.edu/static/pdf/944/art%253A10.1023%252FA%253A1012294324713.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1012294324713&token2=exp=1481226396~acl=%2Fstatic%2Fpdf%2F944%2Fart%25253A10.1023%25252FA%25253A1012294324713.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1023%252FA%253A1012294324713*~hmac=db261d3e5f344f06dcafa1e4fee964399b3a206d5c4ca6b9b7d94c3421799a81">0.38-0.53</a><br>
-		Nature's Influence: Father is an extremely conscientious person<br>
+		Nature's Influence: Father is an extremely conscientious person; Mother is more laid back<br>
 		Nurture's influence on trait: Asian culture and values has pushed me to be more hardworking<br>
 		Analysis of trait: Conscientiousness is one of the 5 Big Personality traits that reflects thoroughfulness, carefulness, and vigilance. 
 		With this online test, I scored around 80% (0%-least conscientious; 100% most conscientious).
@@ -28,7 +29,7 @@
 		other individuals.)</i> As mentioned before, conscientiousness has a slighly lower heritability index compared to the other behavioral traits.
 		This may primarily be because conscientiousness affects the overall social 'fitness' of a person. For the human
 		species, the more conscientious, and therefore more hardworking, are more likely to succeed. 
-		Hence, people learn instantaneously to adapt to become more conscientious and hardworking people. It's truly interesting
+		Hence, people learn instantaneously to adapt to become more conscientious and hardworking people. It's interesting
 		to see how social factors motivate people to change some of their behavioral traits.
 	</p>
 </div>
