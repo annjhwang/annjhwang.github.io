@@ -91,8 +91,8 @@
 				<section>
 					<div class="row">
 						<div class="2u 6u$(mobile)">
-							<a href="#" class="image fit"><img src="images/bmi.png" alt="" height="100"></a>
-							<a href="sls12traits/physical/bmi.php">BMI</a>
+							<a href="#" class="image fit"><img src="images/BMI.png" alt="" height="100"></a>
+							<a href="sls12traits/physical/BMI.php">BMI</a>
 						</div>
 						<div class="2u 6u$(mobile)">
 							<a href="#" class="image fit"><img src="images/shortshot.png" alt="" height="100"></a>

@@ -14,7 +14,7 @@
   	<!-- Wrapper-->
 	<div id="container">
   		<center><h2>Body Mass Index</h2>
-  		<img src="/images/bmi.png" width="210" height="180" margin=60/>
+  		<img src="/images/BMI.png" width="210" height="180" margin=60/>
  		</center>
 	<p>
 		Heritability: <a href="http://www.nature.com.ezp-prod1.hul.harvard.edu/ng/journal/v47/n10/full/ng.3390.html">0.3-0.6(studies vary)</a><br>
