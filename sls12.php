@@ -59,7 +59,6 @@
 					<h1>SLS 12 Final Project</h1>
 					<p>Physical and Behavioral Characteristics</p>
 				</header>
-				<img src="images/facebook1.jpg" width="" height="" />
 				<a href="#work" class="jumplink pic">
 					<span class="arrow icon fa-chevron-right"><span>See my work</span></span>
 					<img src="images/facebook1.jpg" alt="" />
