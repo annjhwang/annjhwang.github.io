@@ -21,6 +21,13 @@
 
 }
 
+#wrapper{
+    padding-top: 50px !important;
+    width: 45em;
+	margin: 0 auto;
+	opacity: 0.00001;
+}
+
 p.citation {
     line-height: 2;
     padding-left: 25px;
@@ -335,7 +342,7 @@ p.citation {
 		margin-left: 8.33333%;
 	}
 
-	
+
 
 	@media screen and (min-width: 737px) {
 
@@ -1243,14 +1250,14 @@ p.citation {
 					padding: 0.5em 1.25em 0.5em 1.25em;
 				}
 
-		/* Wrapper */
+		/* Wrapper 
 
 			#wrapper {
 				width: 45em;
 				margin: 0 auto;
 				opacity: 0.00001;
 			}
-
+*/
 				#wrapper.tall {
 					padding-bottom: 6em;
 				}
@@ -1512,11 +1519,11 @@ p.citation {
 				text-align: center;
 			}
 
-		/* Wrapper */
+		/* Wrapper 
 
 			#wrapper {
 				padding: 7px;
-			}
+			}*/
 
 		/* Nav */
 

@@ -224,6 +224,7 @@
     <script src="assets/js/hexbin.js"></script>
     <script src="assets/js/d3.chart.js"></script>
 
+    <script document.getElementById('wrapper').style["paddingTop"] = '10px;'></script>
 
     <script src="assets/js/jquery.easing.min.js"></script>
     <script src="assets/js/jquery.fittext.js"></script>
